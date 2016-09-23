@@ -1,0 +1,3 @@
+{
+  "grunt-cli":"npm install -g grunt-cli"
+}

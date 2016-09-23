@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: auto;
+    max-width: 1040px;
+    height: 700px;
+    border-left: 1px solid #cccccc;
+    border-right: 1px solid #cccccc;
+}
+.container .left{
+    float: left;
+    width: 299px;
+    height: 700px;
+    border-right: 1px solid #cccccc;
+    padding-top: 20px;
+}
+
+.container .right{
+    float: left;
+    width: 700px;
+}
